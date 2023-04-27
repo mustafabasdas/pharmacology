@@ -1,0 +1,15 @@
+{
+  "name": "PHARMACOLOGY",
+  "short_name": "PHARMACOLOGY",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "logo2.png",
+        "sizes": "512x512"
+      }]
+}
